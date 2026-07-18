@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Robustness of multi-cluster flocking and uniform-in-time transition for the discrete Motsch–Tadmor model"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2026-03-30
+paperurl: "https://www.aimsciences.org/article/doi/10.3934/cpaa.2026056"
+citation: >-
+  S-Y. Ha, C. Jin, J. Lee, Y. Zhang, Robustness of multi-cluster flocking and uniform-in-time transition for the discrete Motsch–Tadmor model,
+  Communications on Pure and Applied Analysis 34, (2026), 95-121.
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
